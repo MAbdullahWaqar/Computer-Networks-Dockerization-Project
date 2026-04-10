@@ -33,7 +33,7 @@ Abdullah's Coupon WebApp is a lightweight Flask-based web application that displ
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vanix056/Computer-Networks-Dockerization-Project.git
+git clone https://github.com/MAbdullahWaqar/Computer-Networks-Dockerization-Project.git
 cd Computer-Networks-Dockerization-Project/project
 ```
 
@@ -163,6 +163,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Abdullah**
-- GitHub: [@vanix056](https://github.com/vanix056)
+**Muhammad Abdullah Waqar**
+- GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
 - Docker Hub: [vanix013](https://hub.docker.com/u/vanix013)
